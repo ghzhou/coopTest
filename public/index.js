@@ -1,0 +1,1 @@
+window.onload = ()=>document.body.append(`window.crossOriginIsolated: ${window.crossOriginIsolated}`);
