@@ -7,6 +7,7 @@ Windows
   127.0.0.1 b.example
 
   npm install
+
   npm start
 
   and visit http://localhost:3000/index.html
